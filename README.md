@@ -29,8 +29,8 @@ The design utilizes a transition from ideal mathematical models to physical micr
 ## Final Performance (FOM)
 | Specification | Achieved Value | Status |
 | :--- | :--- | :--- |
-| **Return Loss (S11)** | 29.69 dB | Pass [x] |
-| **Insertion Loss (S21)** | 0.6433 dB | Pass [x] |
-| **GPS Rejection (@ 1.5 GHz)** | 64.41 dB | Pass [x] |
-| **Wi-Fi Rejection (@ 2.4 GHz)** | 61.36 dB | Pass [x] |
-| **Physical Dimensions** | 53.05 x 17.26 mm² | Pass [x] |
+| **Return Loss (S11)** | 29.69 dB | Pass  |
+| **Insertion Loss (S21)** | 0.6433 dB | Pass  |
+| **GPS Rejection (@ 1.5 GHz)** | 64.41 dB | Pass  |
+| **Wi-Fi Rejection (@ 2.4 GHz)** | 61.36 dB | Pass  |
+| **Physical Dimensions** | 53.05 x 17.26 mm² | Pass  |
